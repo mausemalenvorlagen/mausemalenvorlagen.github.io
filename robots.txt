@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://mausemalenvorlagen.github.io/sitemap.xml
